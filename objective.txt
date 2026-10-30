@@ -1,0 +1,39 @@
+
+                                                                                Project Objectives
+
+                                                                     Smart Tourism & Travel Analytics System
+
+
+The Smart Tourism & Travel Analytics System is a MySQL-based project designed to manage tourist information, destinations, hotels, travel packages, bookings, payments, reviews and transport details. The system helps in providing a centralized platform to store, retrieve and analyze travel-related data, enabling better decision-making and improved travel experiences.
+Objectives
+
+
+1. Manage Tourist Information
+Store and maintain details of tourists such as name, gender, age, email, city and registration date.
+
+2.Manage Destinations
+Keep information about tourist destinations including location, state, country, category and best season.
+
+3.Manage Hotels
+Store hotel details like name, type, price per night, rating and availability for each destination.
+
+4.Manage Travel Packages
+Maintain package details such as name, destination, duration, price and inclusions.
+
+5.Handle Bookings
+Allow tourists to book travel packages, hotels and transport, and track booking status, dates and total amount.
+
+6.Manage Payments
+Record payment details including amount, method, date and status.
+
+7.Manage Reviews
+Collect and analyze tourist reviews and ratings for destinations and hotels.
+
+8. Manage Transport
+Store transport details such as mode, operator, cost and booking information.
+
+Provide Analytics
+Use SQL queries, joins, stored procedures, functions and aggregate operations to generate useful travel analytics reports (e.g, top destinations, popular hotels, booking trends, revenue analysis).
+
+Expected Outcome
+The project will result in a well-structured database with 8 related tables, complete SQL operations (basic queries, joins, stored procedures, functions), and meaningful travel analytics to support data-driven decision making in the tourism industry . 
